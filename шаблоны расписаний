@@ -1,0 +1,87 @@
+  ######## - вечернее богослужение без панихиды
+ 
+ <div class="row align-items-center border-dark border-bottom">
+            <div class="col-md-2 mb-3">
+                <p class="lead mt-3">26 декабря</p>
+                <p class="lead font-italic">суббота</p>
+
+            </div>
+            <div class="col-md-4 mb-3 align-items-center">
+                <p class="lead text-center mt-5"></p>
+            </div>
+            <div class="col-md-2 mb-3">
+                <p class="lead text-center">17:00</p>
+            </div>
+            <div class="col-md-4 mb-3">
+                <p class="lead">Всенощное бдение</p>
+            </div>
+        </div>
+        
+##### - литургия - только утренняя служба
+<div class="row align-items-center border-dark border-bottom">
+            <div class="col-md-2 mb-3">
+                <p class="lead mt-3">18 декабря</p>
+                <p class="lead font-italic">пятница</p>
+            </div>
+            <div class="col-md-4 mb-3 align-items-center">
+                <p class="lead text-center mt-5">свт. Спиридона Тримифунтского</p>
+            </div>
+           <div class="col-md-2 mb-3">
+                <p class="lead text-center mt-3">8:00</p>
+                <p class="lead text-center">8:30</p>
+
+            </div>
+            <div class="col-md-4 mb-3">
+                 <p class="lead mt-3">Исповедь</p>
+                <p class="lead">Литургия</p>
+               
+            </div>
+ </div>
+ 
+ ######## - вечернее богослужение в субботу
+ 
+ <div class="row align-items-center border-dark border-bottom">
+            <div class="col-md-2 mb-3">
+                <p class="lead mt-3">26 декабря</p>
+                <p class="lead font-italic">суббота</p>
+
+            </div>
+            <div class="col-md-4 mb-3 align-items-center">
+                <p class="lead text-center mt-5"></p>
+            </div>
+            <div class="col-md-2 mb-3">
+              
+                <p class="lead text-center">16:00</p>
+                <p class="lead text-center">17:00</p>
+            </div>
+            <div class="col-md-4 mb-3">
+               
+                <p class="lead">Панихида</p>
+                <p class="lead">Всенощное бдение</p>
+            </div>
+        </div>
+        
+######## - воскресная литургия
+  <div class="row align-items-center border-dark border-bottom">
+            <div class="col-md-2 mb-3">
+                <p class="lead mt-3">03 января</p>
+                <p class="lead font-italic">воскресение</p>
+
+            </div>
+            <div class="col-md-4 mb-3 align-items-center">
+                <p class="lead text-center mt-5">
+                    Неделя 30-я по Пятидесятнице, перед Рождеством Христовым, святых отец <br>
+            </div>
+             <div class="col-md-2 mb-3">
+                <p class="lead text-center mt-3">8:00</p>
+                <p class="lead text-center">8:30</p>
+             
+           
+            </div>
+            <div class="col-md-4 mb-3">
+                <p class="lead mt-3">Исповедь</p>
+                <p class="lead">Литургия</p>
+                  
+            </div>
+        </div>
+        
